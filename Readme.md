@@ -22,7 +22,7 @@ Verify the deployment by navigating to your server address in
 your preferred browser.
 
 
-- open your browser and browse through 127.0.0.1:8000/wordpress
+- open your browser and browse through 127.0.0.1:8080/wordpress
 - Happy Coding 😊
 
 
